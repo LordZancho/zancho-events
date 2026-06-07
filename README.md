@@ -1,1 +1,3 @@
-# zancho-events
+# Zancho Events
+
+Starter project scaffold.
